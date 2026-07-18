@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0D0D0D" rx="80"/>
+  <line x1="256" y1="96" x2="256" y2="424" stroke="#E8E0D0" stroke-width="6"/>
+  <line x1="120" y1="176" x2="392" y2="176" stroke="#E8E0D0" stroke-width="6"/>
+  <circle cx="256" cy="176" r="10" fill="#E8E0D0"/>
+  <line x1="152" y1="176" x2="136" y2="288" stroke="#E8E0D0" stroke-width="3.5"/>
+  <line x1="152" y1="176" x2="200" y2="288" stroke="#E8E0D0" stroke-width="3.5"/>
+  <path d="M120 288 Q168 312 216 288" fill="none" stroke="#E8E0D0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="360" y1="176" x2="344" y2="272" stroke="#E8E0D0" stroke-width="3.5"/>
+  <line x1="360" y1="176" x2="376" y2="272" stroke="#E8E0D0" stroke-width="3.5"/>
+  <path d="M328 272 Q360 296 392 272" fill="none" stroke="#E8E0D0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="192" y1="424" x2="320" y2="424" stroke="#E8E0D0" stroke-width="6"/>
+  <line x1="220" y1="390" x2="292" y2="390" stroke="#E8E0D0" stroke-width="4" opacity="0.6"/>
+</svg>
